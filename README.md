@@ -1,8 +1,12 @@
 # Virtual-Webcam
 
-A virtual webcam for Windows. It appears just like a normal webcam to applications like Skype and Hangouts but you can control its input video source (video file, actual webcam etc.) or you can apply visual effects in between source and destination of video. 
+A Virtual Webcam combined with Face Tracker (_camshift_) for Windows. It appears just like a normal webcam to applications like Skype and Hangouts but you can control its input video source (video file, actual webcam etc.) or you can apply visual effects in between source and destination of video. 
 
-It was test on Windows 7 and Windows 8 only.
+**Live demo**
+
+![demo](animated.gif)
+
+It was tested on Windows 7 and Windows 8 only.
 
 ## Getting Started
 
